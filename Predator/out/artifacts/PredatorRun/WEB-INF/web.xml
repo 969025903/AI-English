@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5" metadata-complete="false">
+    <display-name>Predator</display-name>
+<!--    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+        <welcome-file>index.htm</welcome-file>
+        <welcome-file>PredatorIndex.jsp</welcome-file>
+        <welcome-file>default.html</welcome-file>
+        <welcome-file>default.htm</welcome-file>
+        <welcome-file>default.jsp</welcome-file>
+    </welcome-file-list>-->
+    <context-param>
+        <param-name>encoding</param-name>
+        <param-value>UTF-8</param-value>
+    </context-param>
+
+    <!-- Bean Nuts Pinecone Illumination Ver2.8 -->
+    <!-- For Illumination There is ONLY two java servlet. -->
+    <!-- The main servlet will handle all request ,response, etc to Pinecone Illumination.-->
+    <!-- Illumination will using Net Illumination Prototype.-->
+    <!-- Control mapping style is difference with Spring but more like Pinecone C/CPP and PHP. -->
+    <!-- After jsp servlet Illumination will using format like "?do=xxx" to parse URL.-->
+    <context-param>
+        <param-name>IlluminationConfigLocation</param-name>
+        <param-value>classpath:Resources/config.json5</param-value>
+    </context-param>
+    <context-param>
+        <param-name>ServletMatrix</param-name>
+        <param-value>Predator.System.Predator</param-value>
+    </context-param>
+    <servlet>
+        <description>Illumination Servlet</description>
+        <display-name>IlluminationServlet</display-name>
+        <servlet-name>IlluminationServlet</servlet-name>
+        <servlet-class>Pinecone.Framework.Util.Net.Illumination.IlluminationServlet</servlet-class>
+        <load-on-startup>4</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>IlluminationServlet</servlet-name>
+        <url-pattern></url-pattern>
+    </servlet-mapping>
+    <!-- Illumination End.-->
+
+    <filter>
+        <display-name>PredatorFilter</display-name>
+        <filter-name>PredatorFilter</filter-name>
+        <filter-class>Predator.System.PredatorFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>PredatorFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+</web-app>

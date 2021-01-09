@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Predator:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6933ea62-5b85-432a-aeb9-ae732a4bb005" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DependenciesAnalyzeManager">
+    <option name="forwardDirection" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/PersonWordBuild/PersonWordBuildModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Predator/System/PredatorWizardSoul.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-843">
+              <caret line="212" column="36" selection-start-line="212" selection-start-column="36" selection-end-line="212" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#14689#14690#0" expanded="true" />
+                <element signature="e#14736#14737#0" expanded="true" />
+                <element signature="e#14774#14775#0" expanded="true" />
+                <element signature="e#14820#14821#0" expanded="true" />
+                <element signature="e#15295#15296#0" expanded="true" />
+                <element signature="e#15343#15344#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/ReciteWord/ReciteWordModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/SearchWord.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1824">
+              <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="100" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/ReciteWord.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="436" lean-forward="true" selection-start-line="436" selection-end-line="436" />
+              <folding>
+                <element signature="e#819#845#0#HTML" expanded="true" />
+                <element signature="e#3895#3936#0#HTML" expanded="true" />
+                <element signature="e#5191#5242#0#HTML" expanded="true" />
+                <element signature="e#5622#5644#0#HTML" expanded="true" />
+                <element signature="e#5939#5974#0#HTML" expanded="true" />
+                <element signature="e#6019#6065#0#HTML" expanded="true" />
+                <element signature="e#6182#6204#0#HTML" expanded="true" />
+                <element signature="e#6091#6151#0#HTML" expanded="true" />
+                <element signature="e#7409#7839#0#HTML" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#!!top" expanded="true" />
+                <element signature="e#7884#7925#0#HTML" />
+                <element signature="e#8086#8343#0#HTML" />
+                <element signature="e#29#35#0" expanded="true" />
+                <element signature="e#8601#9234#0#HTML" />
+                <element signature="e#9029#9237#0#HTML" />
+                <element signature="e#8994#9773#0#HTML" />
+                <element signature="e#9806#10904#0#HTML" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="e#10007#10272#0#HTML" />
+                <element signature="e#9370#11553#0#HTML" />
+                <element signature="e#520#527#1" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#form#0;n#\\h3#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="e#11612#12935#0#HTML" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="e#552#558#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#a#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#span#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="e#456#462#1" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#a#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/PersonWordBuild.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="263" column="56" selection-start-line="263" selection-start-column="56" selection-end-line="263" selection-end-column="56" />
+              <folding>
+                <element signature="e#5092#5126#0#HTML" expanded="true" />
+                <element signature="e#14640#14661#0#HTML" expanded="true" />
+                <element signature="e#14810#14833#0#HTML" expanded="true" />
+                <element signature="e#15112#15164#0#HTML" expanded="true" />
+                <element signature="e#17330#17356#0#HTML" expanded="true" />
+                <element signature="e#17438#17490#0#HTML" expanded="true" />
+                <element signature="e#17670#17696#0#HTML" expanded="true" />
+                <element signature="e#17807#17859#0#HTML" expanded="true" />
+                <element signature="e#18113#18154#0#HTML" expanded="true" />
+                <element signature="e#18247#18281#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#td#3;n#tr#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mParentSystem</find>
+      <find>hControl</find>
+      <find>MVCMutualSpawner</find>
+      <find>WizardSummoner</find>
+      <find>system</find>
+      <find>pro</find>
+      <find>PredatorWizardSoul</find>
+      <find>queryRoleIndex</find>
+      <find>var[0-9]</find>
+      <find>indentFactor</find>
+      <find>GET</find>
+      <find>write</find>
+      <find>stop</find>
+      <find>Debug</find>
+      <find>, boolean bWriteJavaClassName</find>
+      <find>,bWriteJavaClassName</find>
+      <find>, bWriteJavaClassName</find>
+      <find>console.log</find>
+      <find>keyword</find>
+      <find>SearchWord</find>
+      <find>2px</find>
+      <find>btn</find>
+      <find>.btn-</find>
+      <find>.btn-pr</find>
+      <find>.menu-s</find>
+      <find>.slide-bd</find>
+      <find>.pad-b</find>
+      <find>.btn-p</find>
+      <find>\t\t</find>
+      <find>szStudyThisBook</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mPageData</replace>
+      <replace>predator</replace>
+      <replace>PREDATOR</replace>
+      <replace>h</replace>
+      <replace>MutualWordLibrary</replace>
+      <replace>getModularRoleIndex</replace>
+      <replace>Control</replace>
+      <replace>hSoul</replace>
+      <replace>select</replace>
+      <replace>Predator</replace>
+      <replace>bSafe</replace>
+      <replace>GlobalParameterContainer</replace>
+      <replace>spawnActionQuerySpell</replace>
+      <replace>StringUtils.addslashes</replace>
+      <replace>StringUtils.jsonAddSlashes</replace>
+      <replace>this.valueSafety</replace>
+      <replace>mutualUsersList</replace>
+      <replace>appendNewUser</replace>
+      <replace>userEditor</replace>
+      <replace>user</replace>
+      <replace />
+      <replace>TABLE_</replace>
+      <replace>simpleDeleteSingleObject</replace>
+      <replace>prospectNumberQualify</replace>
+      <replace>JSONSerializer.writeJsonValue</replace>
+      <replace>mParentMatrix</replace>
+      <replace>this.mYokedControl</replace>
+      <replace>e</replace>
+      <replace>nIndentFactor</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Predator/Util/PredatorTimeHelper.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Util/PredatorSortHelper.java" />
+        <option value="$PROJECT_DIR$/web/root/assets/css/tooltip.css" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/PersonWordBuild/PersonWordBuild.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Util/PredatorWordSortHelper.java" />
+        <option value="$PROJECT_DIR$/src/Pinecone/Framework/Util/RDB/MySQL/MySQLExecutor.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/ReciteWord/ReciteWord.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/System/PredatorAlertPage.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/SearchWord.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/PredatorIndex.jsp" />
+        <option value="$PROJECT_DIR$/web/root/assets/css/Predator.css" />
+        <option value="$PROJECT_DIR$/web/root/assets/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/intelLogin.jsp" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/inletLogin/inletLogin.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/inletLogin/inletLoginControl.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/inletLogin/inletLoginModel.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/inletLogin.jsp" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/InletLogin/PersonWordBuildControl.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/InletLogin/PersonWordBuildModel.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/InletLogin/PersonWordBuild.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/InletLogin/InletLogin.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/InletLogin/InletLoginModel.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/InletLogin/InletLoginControl.java" />
+        <option value="$PROJECT_DIR$/src/Resources/predator.json5" />
+        <option value="$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/SystemDispatcher.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/PredatorIndex/PredatorIndexModel.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Util/PredatorHelper.java" />
+        <option value="$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/prototype/Wizard.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/UserLogin/UserLogin.java" />
+        <option value="$PROJECT_DIR$/src/Resources/predatorMenu.json5" />
+        <option value="$PROJECT_DIR$/src/Predator/Util/PredatorModelHelper.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/PersonWordBuild/PersonWordBuildControl.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/UserLogin/UserLoginModel.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/UserLogin/UserLoginControl.java" />
+        <option value="$PROJECT_DIR$/src/Predator/System/ConsciousPredatorSoul.java" />
+        <option value="$PROJECT_DIR$/src/Predator/System/PredatorWizardSoul.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/SearchWord/SearchWordModel.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminUserManage.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminMutualWordDepositor.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminMutualWordRoot.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminMutualGlossary.jsp" />
+        <option value="$PROJECT_DIR$/src/Predator/System/Predator.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/UserLogin.jsp" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/ReciteWord/ReciteWordControl.java" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/ReciteWord/ReciteWordModel.java" />
+        <option value="$PROJECT_DIR$/web/root/assets/js/Predator.js" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/MyTest.jsp" />
+        <option value="$PROJECT_DIR$/src/Predator/System/InfrastructureRender.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/ReciteWord.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/template/Public/PersonWordBuild.jsp" />
+        <option value="$PROJECT_DIR$/src/Predator/Wizard/Public/PersonWordBuild/PersonWordBuildModel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="51" />
+    <option name="y" value="130" />
+    <option name="width" value="1711" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pinecone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pinecone" type="462c0819:PsiDirectoryNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predator" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610112155911" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/Project/Vue" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Predator_12.18\Predator\web\root\assets\img" />
+      <recent name="E:\Project\Predator_12.18\Predator\web\root\root\Custom\img" />
+      <recent name="E:\Project\Predator_12.18\Predator\web\WEB-INF\template\Public" />
+      <recent name="E:\MyFiles\CodeScript\Project\Hazelnut\Predator\Predator\src\Pinecone\Framework\Util\JSON" />
+      <recent name="E:\MyFiles\CodeScript\Project\Hazelnut\Predator\Predator\web\WEB-INF\template\Admin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Predator.Util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Predator_12.18\Predator\src\Predator\Wizard\Public\InletLogin" />
+      <recent name="E:\Project\Predator_12.18\Predator\src\Predator\Wizard\Public" />
+      <recent name="E:\Project\Predator_12.18\Predator\src\Predator\Wizard\Public\SearchWord" />
+      <recent name="E:\Project\Predator_12.18\Predator\web\WEB-INF\template\Public" />
+      <recent name="E:\MyFiles\CodeScript\Project\Hazelnut\Predator\Predator\src\Predator\Wizard\Public\MyTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Predator">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pinecone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pinecone.Pinecone" />
+      <module name="Predator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pinecone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Predator.System.Predator" />
+      <module name="Predator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Predator.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predator" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Predator:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="SkyNetHost" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49497" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Predator:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Pinecone" />
+      <item itemvalue="Application.Predator" />
+      <item itemvalue="Tomcat Server.Predator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Predator" />
+        <item itemvalue="Application.Pinecone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6933ea62-5b85-432a-aeb9-ae732a4bb005" name="Default" comment="" />
+      <created>1523709312218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523709312218</updated>
+      <workItem from="1523709314406" duration="2253000" />
+      <workItem from="1523799534990" duration="17000" />
+      <workItem from="1523805810062" duration="12000" />
+      <workItem from="1523870586230" duration="123000" />
+      <workItem from="1523870993224" duration="61000" />
+      <workItem from="1523965735940" duration="70000" />
+      <workItem from="1529128789257" duration="367000" />
+      <workItem from="1593942634708" duration="12626000" />
+      <workItem from="1593956773753" duration="5000" />
+      <workItem from="1593956820105" duration="6624000" />
+      <workItem from="1594037995905" duration="506000" />
+      <workItem from="1594038521809" duration="267000" />
+      <workItem from="1594038806277" duration="6000" />
+      <workItem from="1594050219710" duration="18000" />
+      <workItem from="1594131649579" duration="618000" />
+      <workItem from="1594180859710" duration="2381000" />
+      <workItem from="1594358455996" duration="28175000" />
+      <workItem from="1594447524663" duration="3372000" />
+      <workItem from="1594451848793" duration="51000" />
+      <workItem from="1594451919377" duration="34852000" />
+      <workItem from="1594492728742" duration="353000" />
+      <workItem from="1594522735537" duration="12158000" />
+      <workItem from="1594535965923" duration="3007000" />
+      <workItem from="1594906942024" duration="1294000" />
+      <workItem from="1594965918299" duration="6693000" />
+      <workItem from="1595079822600" duration="3421000" />
+      <workItem from="1595138826144" duration="91000" />
+      <workItem from="1595148938462" duration="8972000" />
+      <workItem from="1595231118395" duration="2167000" />
+      <workItem from="1595233364710" duration="2000" />
+      <workItem from="1595314804165" duration="615000" />
+      <workItem from="1595343688974" duration="987000" />
+      <workItem from="1595350982437" duration="1466000" />
+      <workItem from="1595421191331" duration="18289000" />
+      <workItem from="1595473553082" duration="18492000" />
+      <workItem from="1596097329027" duration="610000" />
+      <workItem from="1596181762471" duration="1928000" />
+      <workItem from="1597484797871" duration="8000" />
+      <workItem from="1597756750115" duration="15612000" />
+      <workItem from="1597813827772" duration="198000" />
+      <workItem from="1597820845382" duration="9720000" />
+      <workItem from="1597976708885" duration="5946000" />
+      <workItem from="1598431916125" duration="3777000" />
+      <workItem from="1598488740401" duration="5237000" />
+      <workItem from="1598507272850" duration="771000" />
+      <workItem from="1598527767932" duration="1204000" />
+      <workItem from="1600614299579" duration="802000" />
+      <workItem from="1600625963626" duration="5000" />
+      <workItem from="1600626331980" duration="793000" />
+      <workItem from="1600710801244" duration="74000" />
+      <workItem from="1601291770459" duration="749000" />
+      <workItem from="1601661642000" duration="22000" />
+      <workItem from="1602329571531" duration="53000" />
+      <workItem from="1602329726128" duration="285000" />
+      <workItem from="1602334038048" duration="618000" />
+      <workItem from="1602677983540" duration="208000" />
+      <workItem from="1603639518042" duration="1108000" />
+      <workItem from="1603987792876" duration="479000" />
+      <workItem from="1604054051717" duration="219000" />
+      <workItem from="1604054291151" duration="237000" />
+      <workItem from="1604054550751" duration="10000" />
+      <workItem from="1604059608738" duration="309000" />
+      <workItem from="1604216363132" duration="8000" />
+      <workItem from="1604217534095" duration="42000" />
+      <workItem from="1604405683243" duration="38000" />
+      <workItem from="1604460327088" duration="58000" />
+      <workItem from="1604487454032" duration="1258000" />
+      <workItem from="1604566455992" duration="34000" />
+      <workItem from="1605199227969" duration="21000" />
+      <workItem from="1605199785557" duration="242000" />
+      <workItem from="1605200110496" duration="10000" />
+      <workItem from="1605200128421" duration="45000" />
+      <workItem from="1605201701544" duration="450000" />
+      <workItem from="1605202156045" duration="3353000" />
+      <workItem from="1605243800307" duration="1245000" />
+      <workItem from="1605245368997" duration="21000" />
+      <workItem from="1605285648386" duration="365000" />
+      <workItem from="1605359934527" duration="3049000" />
+      <workItem from="1605367001338" duration="2652000" />
+      <workItem from="1605452451660" duration="5821000" />
+      <workItem from="1605528431620" duration="2800000" />
+      <workItem from="1605534931721" duration="57000" />
+      <workItem from="1605535085820" duration="27000" />
+      <workItem from="1605535183624" duration="11175000" />
+      <workItem from="1605702665949" duration="15703000" />
+      <workItem from="1605725003419" duration="136000" />
+      <workItem from="1605765325170" duration="468000" />
+      <workItem from="1605767302332" duration="17000" />
+      <workItem from="1605767442995" duration="12000" />
+      <workItem from="1605786693267" duration="7528000" />
+      <workItem from="1605841028879" duration="605000" />
+      <workItem from="1605873103598" duration="8000" />
+      <workItem from="1605875674449" duration="33000" />
+      <workItem from="1605937394274" duration="77000" />
+      <workItem from="1605969433641" duration="6315000" />
+      <workItem from="1606059075341" duration="599000" />
+      <workItem from="1606061712595" duration="2017000" />
+      <workItem from="1606137943170" duration="4745000" />
+      <workItem from="1606150712903" duration="1868000" />
+      <workItem from="1606152615350" duration="1600000" />
+      <workItem from="1606154425615" duration="6000" />
+      <workItem from="1606157061023" duration="1331000" />
+      <workItem from="1606198021379" duration="4786000" />
+      <workItem from="1606213852375" duration="703000" />
+      <workItem from="1606222320895" duration="697000" />
+      <workItem from="1606282839793" duration="343000" />
+      <workItem from="1606303240305" duration="12175000" />
+      <workItem from="1606328007500" duration="599000" />
+      <workItem from="1606389818618" duration="12911000" />
+      <workItem from="1606404327568" duration="7624000" />
+      <workItem from="1606487346499" duration="22041000" />
+      <workItem from="1606509663589" duration="143000" />
+      <workItem from="1606538490306" duration="7828000" />
+      <workItem from="1606551807416" duration="64000" />
+      <workItem from="1606558406564" duration="2721000" />
+      <workItem from="1606653748490" duration="12719000" />
+      <workItem from="1606676678736" duration="5910000" />
+      <workItem from="1606735251584" duration="8205000" />
+      <workItem from="1607003077449" duration="191000" />
+      <workItem from="1607008074516" duration="16283000" />
+      <workItem from="1607057952322" duration="19122000" />
+      <workItem from="1607083221312" duration="18152000" />
+      <workItem from="1607107109333" duration="24000" />
+      <workItem from="1607154888999" duration="10183000" />
+      <workItem from="1607166788924" duration="16663000" />
+      <workItem from="1607244709157" duration="40485000" />
+      <workItem from="1607288269212" duration="43000" />
+      <workItem from="1607288407822" duration="195000" />
+      <workItem from="1607314622637" duration="13685000" />
+      <workItem from="1607341077217" duration="155000" />
+      <workItem from="1607341462128" duration="179000" />
+      <workItem from="1607341870781" duration="205000" />
+      <workItem from="1607342210374" duration="4960000" />
+      <workItem from="1607352849147" duration="722000" />
+      <workItem from="1607405368018" duration="654000" />
+      <workItem from="1607415666469" duration="8268000" />
+      <workItem from="1607426607308" duration="2302000" />
+      <workItem from="1607523359764" duration="3357000" />
+      <workItem from="1607534387110" duration="6199000" />
+      <workItem from="1607579293841" duration="8291000" />
+      <workItem from="1607840894085" duration="5352000" />
+      <workItem from="1607850882521" duration="1160000" />
+      <workItem from="1607853475713" duration="1292000" />
+      <workItem from="1607862972059" duration="2591000" />
+      <workItem from="1607871769938" duration="852000" />
+      <workItem from="1607944696586" duration="12572000" />
+      <workItem from="1607960173781" duration="81000" />
+      <workItem from="1607960272313" duration="6351000" />
+      <workItem from="1607968604773" duration="10436000" />
+      <workItem from="1608029362366" duration="15195000" />
+      <workItem from="1608050153910" duration="3725000" />
+      <workItem from="1608121395219" duration="4150000" />
+      <workItem from="1608205678350" duration="1373000" />
+      <workItem from="1608212397772" duration="618000" />
+      <workItem from="1608225311730" duration="9660000" />
+      <workItem from="1608264994761" duration="1780000" />
+      <workItem from="1608286870902" duration="15425000" />
+      <workItem from="1608375538220" duration="22520000" />
+      <workItem from="1608436496832" duration="22902000" />
+      <workItem from="1608538304989" duration="15754000" />
+      <workItem from="1608620724250" duration="21919000" />
+      <workItem from="1608714222531" duration="21765000" />
+      <workItem from="1608990445890" duration="94540000" />
+      <workItem from="1609805632642" duration="88402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="947434000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1631753" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" weight="0.123839006" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.38232163" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50622874" side_tool="true" weight="0.20215054" />
+      <window_info anchor="bottom" id="Application Servers" order="3" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.4989339" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49377123" visible="true" weight="0.17358893" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.2988889" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.31444445" />
+      <window_info anchor="bottom" id="Statistic" order="14" weight="0.19666667" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="17" />
+      <window_info anchor="bottom" id="Ant Build" order="18" weight="0.2497309" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="Module Dependencies" order="10" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3578709" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" weight="0.123839006" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.38232163" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50622874" side_tool="true" visible="true" weight="0.20215054" />
+      <window_info anchor="bottom" id="Application Servers" order="3" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.4989339" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49377123" visible="true" weight="0.20215054" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.2988889" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.31444445" />
+      <window_info anchor="bottom" id="Statistic" order="14" weight="0.19666667" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="17" />
+      <window_info anchor="bottom" id="Ant Build" order="18" weight="0.2497309" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="Module Dependencies" order="10" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/WEB-INF/template/Public/PersonWordBuild.jsp</url>
+          <line>196</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/PersonWordBuild/PersonWordBuild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Admin/AdminMutualGlossary/AdminMutualGlossary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Admin/AdminMutualGlossary/AdminMutualGlossaryControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/HostMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="221" column="28" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
+          <folding>
+            <element signature="e#7512#7513#0" expanded="true" />
+            <element signature="e#7557#7558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/System/PredatorDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/prototype/JSONBasedModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/WizardArchetype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/WizardSummoner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="122" column="17" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-tomcat-9.0.39/lib/servlet-api.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/SystemDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="224" column="96" selection-start-line="224" selection-start-column="96" selection-end-line="224" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/prototype/Wizard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/prototype/ConsciousWizardSoul.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/PredatorIndex/PredatorIndexModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Pinecone.Framework.Util.Net.Illumination.WizardSoulFerryman">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Pinecone.Framework.Util.Net.Illumination.WizardSoulFerryman</OriginalElement>
+          <nodes>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.WizardSoulFerryman</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.prototype.WizardSoul</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.prototype.MVCYokedWizardAllyType</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.WizardArchetype</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0718406593406595" x="602.0" y="1266.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/predator.json5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resources/predatorMenu.json5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Util/PredatorWordSortHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-722">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Util/PredatorModelHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-603">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Util/Net/Illumination/WizardSoulFerryman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+          <folding>
+            <element signature="e#1595#1596#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#2204#2205#0" expanded="true" />
+            <element signature="e#2275#2276#0" expanded="true" />
+            <element signature="e#4780#4781#0" expanded="true" />
+            <element signature="e#4826#4827#0" expanded="true" />
+            <element signature="e#4880#4881#0" expanded="true" />
+            <element signature="e#4925#4926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Predator.Wizard.Public.UserLogin.UserLogin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Predator.Wizard.Public.UserLogin.UserLogin</OriginalElement>
+          <nodes>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.WizardSoulFerryman</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.prototype.WizardSoul</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.prototype.Wizard</node>
+            <node x="" y="">Predator.System.PredatorWizardArchetype</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.prototype.MVCYokedWizardAllyType</node>
+            <node x="" y="">Predator.System.PredatorWizardSoul</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.prototype.DistributableDispatcher</node>
+            <node x="" y="">Predator.System.ConsciousPredatorSoul</node>
+            <node x="" y="">Predator.System.Prototype.JasperYokedSoul</node>
+            <node x="" y="">Predator.System.Prototype.TraceableSoul</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.WizardArchetype</node>
+            <node x="" y="">Predator.System.PredatorWizardSoul.Occupation</node>
+            <node x="" y="">Pinecone.Framework.System.Prototype.Ally</node>
+            <node x="" y="">Predator.Wizard.Public.UserLogin.UserLogin</node>
+            <node x="" y="">Pinecone.Framework.Util.Net.Illumination.prototype.ConsciousWizardSoul</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0958380843785631" x="567.0" y="3198.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/UserLogin/UserLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="178" column="31" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Util/PredatorHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+          <folding>
+            <element signature="e#4578#4579#0" expanded="true" />
+            <element signature="e#4643#4644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Util/PredatorCipherHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="77" column="63" selection-start-line="77" selection-start-column="63" selection-end-line="77" selection-end-column="63" />
+          <folding>
+            <element signature="e#1463#1464#0" expanded="true" />
+            <element signature="e#1498#1499#0" expanded="true" />
+            <element signature="e#1535#1536#0" expanded="true" />
+            <element signature="e#1594#1595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Admin/AdminUserManage/AdminUserManageControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="36" column="150" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/UserLogin/UserLoginModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/System/ConsciousPredatorSoul.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="130" column="62" selection-start-line="130" selection-start-column="62" selection-end-line="130" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/SearchWord/SearchWordControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/SearchWord/SearchWordModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminUserManage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="231" column="5" selection-start-line="231" selection-start-column="5" selection-end-line="231" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#td#1;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminMutualWordDepositor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="215" column="5" selection-start-line="215" selection-start-column="5" selection-end-line="215" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#td#2;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#td#2;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminMutualWordRoot.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="215" column="5" selection-start-line="215" selection-start-column="5" selection-end-line="215" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#td#2;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#td#2;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/PredatorIndex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/root/assets/img/CET6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/root/assets/img/CET4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/System/Predator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="37" column="81" selection-start-line="37" selection-start-column="81" selection-end-line="37" selection-end-column="81" />
+          <folding>
+            <element signature="e#4016#4017#0" expanded="true" />
+            <element signature="e#4097#4098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/UserLogin/UserLoginControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/PersonWordBuild/PersonWordBuildControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Admin/AdminMutualGlossary.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="236" column="5" lean-forward="true" selection-start-line="236" selection-start-column="5" selection-end-line="236" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#td#3;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#td#3;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/UserLogin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="114" column="79" lean-forward="true" selection-start-line="114" selection-start-column="79" selection-end-line="114" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#form#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#form#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pinecone/Framework/Unit/MultiValueMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/root/assets/js/Predator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#376#383#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#360#367#1" expanded="true" />
+            <element signature="e#4#10#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/MyTest.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/System/InfrastructureRender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="103" column="30" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/SearchWord.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="100" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/ReciteWord/ReciteWordControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/ReciteWord.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="436" lean-forward="true" selection-start-line="436" selection-end-line="436" />
+          <folding>
+            <element signature="e#819#845#0#HTML" expanded="true" />
+            <element signature="e#3895#3936#0#HTML" expanded="true" />
+            <element signature="e#5191#5242#0#HTML" expanded="true" />
+            <element signature="e#5622#5644#0#HTML" expanded="true" />
+            <element signature="e#5939#5974#0#HTML" expanded="true" />
+            <element signature="e#6019#6065#0#HTML" expanded="true" />
+            <element signature="e#6182#6204#0#HTML" expanded="true" />
+            <element signature="e#6091#6151#0#HTML" expanded="true" />
+            <element signature="e#7409#7839#0#HTML" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="e#7884#7925#0#HTML" />
+            <element signature="e#8086#8343#0#HTML" />
+            <element signature="e#29#35#0" expanded="true" />
+            <element signature="e#8601#9234#0#HTML" />
+            <element signature="e#9029#9237#0#HTML" />
+            <element signature="e#8994#9773#0#HTML" />
+            <element signature="e#9806#10904#0#HTML" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="e#10007#10272#0#HTML" />
+            <element signature="e#9370#11553#0#HTML" />
+            <element signature="e#520#527#1" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#form#0;n#\\h3#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#11612#12935#0#HTML" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="e#552#558#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#a#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#span#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#456#462#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#span#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#a#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/template/Public/PersonWordBuild.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="263" column="56" selection-start-line="263" selection-start-column="56" selection-end-line="263" selection-end-column="56" />
+          <folding>
+            <element signature="e#5092#5126#0#HTML" expanded="true" />
+            <element signature="e#14640#14661#0#HTML" expanded="true" />
+            <element signature="e#14810#14833#0#HTML" expanded="true" />
+            <element signature="e#15112#15164#0#HTML" expanded="true" />
+            <element signature="e#17330#17356#0#HTML" expanded="true" />
+            <element signature="e#17438#17490#0#HTML" expanded="true" />
+            <element signature="e#17670#17696#0#HTML" expanded="true" />
+            <element signature="e#17807#17859#0#HTML" expanded="true" />
+            <element signature="e#18113#18154#0#HTML" expanded="true" />
+            <element signature="e#18247#18281#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#td#3;n#tr#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/ReciteWord/ReciteWordModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/System/PredatorWizardSoul.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-843">
+          <caret line="212" column="36" selection-start-line="212" selection-start-column="36" selection-end-line="212" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#14689#14690#0" expanded="true" />
+            <element signature="e#14736#14737#0" expanded="true" />
+            <element signature="e#14774#14775#0" expanded="true" />
+            <element signature="e#14820#14821#0" expanded="true" />
+            <element signature="e#15295#15296#0" expanded="true" />
+            <element signature="e#15343#15344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Predator/Wizard/Public/PersonWordBuild/PersonWordBuildModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Predator:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (Predator)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>aopalliance-repackaged-2.5.0-b30</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|Predator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

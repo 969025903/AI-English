@@ -1,0 +1,120 @@
+{
+  "name": "Predator",
+  "version": "2.1.0",
+  "System": {
+    "AlertPage"          :  "PredatorAlertPage",
+    "WizardPackageName"  :  "Predator.Wizard",
+    "WizardSummoner"     :  "Predator.System.PredatorWizardSummoner",
+    "SystemDispatcher"   :  "Predator.System.PredatorDispatcher",
+    "MainMenu"           :  "predatorMenu.json5",
+    "16BitInnerPassword" :  "AEbean2017401375", /** Length: 16Bit This password is critical for encrypt system data. **/
+    "DebugMode": true,
+
+    "RDB": {
+      "Driver"   : "Pinecone.Framework.Util.RDB.MySql.MySQLLinker",
+      "Location" : "localhost/predator",
+      "Username" : "root",
+      "Password" : "root",
+      "Charset"  : "UTF-8",
+      "TablePrefix": "predator_"
+    }
+  },
+  "UploadConfig": {
+    "PublicImgUpPath": "./../root/assets/images/public/upload/",
+    "PublicImgAtPath": "./assets/images/public/upload/",
+    "PublicFileUpSize": 20971520
+  },
+  "Plugins": {
+    "TemplatePath": "PluginsTemplate/",
+    "dataTables": "./root/assets/js/plugins/dataTables/",
+    "ueditor": "./ueditor/",
+    "laydate": "./root/assets/js/plugins/laydate/",
+    "chart": "./root/assets/js/plugins/"
+  },
+
+
+
+
+  "WizardsList": {
+    "PredatorAlertPage": {
+      "defaultSuccessTitle": "操作成功！",
+      "defaultFailTitle": "操作失败,请联系管理员！",
+      "defaultSuccessURL": -1,
+      "defaultFailURL": -1,
+      "table": null,
+      "title": "操作成功",
+      "pageLimit": 0,
+      "role": "System"
+    },
+    "SystemCoven": {
+      "table": null,
+      "title": "",
+      "pageLimit": 0,
+      "role": "System"
+    },
+
+    /** Admin Wizard **/
+    "AdminMutualWordDepositor": {
+      "table": null,
+      "title": "系统基本共用单词库管理",
+      "pageLimit": 15,
+      "role": "Admin"
+    },
+    "AdminMutualWordRoot": {
+      "table": null,
+      "title": "系统词根库管理",
+      "pageLimit": 15,
+      "role": "Admin"
+    },
+    "AdminUserManage": {
+      "table": null,
+      "title": "账号信息管理",
+      "pageLimit": 15,
+      "role": "Admin"
+    },
+    "AdminMutualGlossary": {
+      "table": null,
+      "title": "用户单词本管理",
+      "pageLimit": 15,
+      "role": "Admin"
+    },
+
+    /** Public Wizard **/
+    "PredatorIndex": {
+      "table": null,
+      "title": "Hazelnut Predator - 盘古智能语言实验系统",
+      "pageLimit": 4,
+      "role": "Public"
+    },
+    "MyTest": {
+      "table": null,
+      "title": "Admin Mutual Word Library Management",
+      "pageLimit": 4,
+      "role": "Public"
+    },
+    "PersonWordBuild": {
+      "table": null,
+      "title": "个人单词本",
+      "pageLimit": 4,
+      "role": "Public"
+    },
+    "ReciteWord": {
+      "table": null,
+      "title": "背单词",
+      "pageLimit": 4,
+      "role": "Public"
+    },
+    "SearchWord": {
+      "table": null,
+      "title": "单词展示",
+      "pageLimit": 4,
+      "role": "Public"
+    },
+    "UserLogin": {
+      "table": null,
+      "title": "登录",
+      "pageLimit": 4,
+      "role": "Public"
+    }
+  }
+}

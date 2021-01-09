@@ -1,0 +1,162 @@
+{
+  "union": [
+    {
+      "title": "首页", "href": "/", "icon": "fa fa-home", "submenu": null
+    },
+    {
+      "title": "系统导航", "href": "/", "icon": "fa fa-paper-plane", "submenu": null
+    }
+  ],
+
+  "public": [
+
+  ],
+
+  "client": [
+    {
+      "title": "个人中心", "href": "?do=UserIndex", "icon": "fa fa-user-circle-o", "submenu": null
+    },
+
+    {
+      "title": "语言学习", "href": "javascript:void(0)", "icon": "fa fa-language",
+      "submenu": [
+        {
+          "title": "英语学习", "href": "javascript:void(0)", "icon": "javascript:void(0)",
+          "submenu": [
+            {
+              "title": "单词学习", "href": "javascript:void(0)", "icon": "",
+              "submenu": [
+                {
+                  "title": "背单词", "href": "?do=ReciteWord", "icon": "", "submenu": null
+                },
+                {
+                  "title": "双语词典", "href": "javascript:void(0)", "icon": "", "submenu": null
+                },
+                {
+                  "title": "英语词源", "href": "javascript:void(0)", "icon": "", "submenu": null
+                },
+                {
+                  "title": "词根字典", "href": "javascript:void(0)", "icon": "", "submenu": null
+                }
+              ]
+            },
+            {
+              "title": "阅读学习", "href": "javascript:void(0)", "icon": "",
+              "submenu": [
+                {
+                  "title": "短文阅读", "href": "javascript:void(0)", "icon": "", "submenu": null
+                },
+                {
+                  "title": "沉浸学习", "href": "javascript:void(0)", "icon": "", "submenu": null
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "西语学习", "href": "javascript:void(0)", "icon": "javascript:void(0)",
+          "submenu": [
+            {
+              "title": "开发当中，敬请期待！", "href": "javascript:void(0)", "icon": "", "submenu": null
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "资源中心", "href": "javascript:void(0)", "icon": "fa fa-database", "submenu": [
+      {
+        "title": "英语资源", "href": "javascript:void(0)", "icon": "",
+        "submenu": [
+          {
+            "title": "精品课程", "href": "javascript:void(0)", "icon": "", "submenu": null
+          }
+        ]
+      },
+      {
+        "title": "西语资源", "href": "javascript:void(0)", "icon": "javascript:void(0)",
+        "submenu": [
+          {
+            "title": "开发当中，敬请期待！", "href": "javascript:void(0)", "icon": "", "submenu": null
+          }
+        ]
+      }
+    ]
+    },
+
+    {
+      "title": "个人大数据中心", "href": "javascript:void(0)", "icon": "fa fa-flask",
+      "submenu": [
+        {
+          "title": "单词中心", "href": "javascript:void(0)", "icon": "javascript:void(0)",
+          "submenu": [
+            {
+              "title": "单词本", "href": "?do=PersonWordBuild", "icon": "", "submenu": null
+            },
+            {
+              "title": "词根本", "href": "javascript:void(0)", "icon": "", "submenu": null
+            },
+            {
+              "title": "造句本", "href": "javascript:void(0)", "icon": "", "submenu": null
+            }
+          ]
+        },
+        {
+          "title": "读写中心", "href": "javascript:void(0)", "icon": "javascript:void(0)",
+          "submenu": [
+            {
+              "title": "阅读册", "href": "javascript:void(0)", "icon": "", "submenu": null
+            },
+            {
+              "title": "作文本", "href": "javascript:void(0)", "icon": "", "submenu": null
+            }
+          ]
+        },
+        {
+          "title": "综合学习分析", "href": "javascript:void(0)", "icon": "javascript:void(0)",
+          "submenu": [
+            {
+              "title": "学情综合分析报告", "href": "javascript:void(0)", "icon": "", "submenu": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "admin": [
+    {
+      "title": "网站数据管理", "href": "javascript:void(0)", "icon": "",
+      "submenu": [
+        {
+          "title": "用户基本信息", "href": "javascript:void(0)", "icon": "",
+          "submenu": [
+            {
+              "title": "账号基本信息管理", "href": "?do=AdminUserManage", "icon": "",
+              "submenu": null
+            }
+          ]
+        },
+        {
+          "title": "用户应用数据", "href": "javascript:void(0)", "icon": "",
+          "submenu": [
+            {
+              "title": "用户个人单词本管理", "href": "?do=AdminMutualGlossary", "icon": "",
+              "submenu": null,
+            }
+          ]
+        },
+        {
+          "title": "系统应用数据", "href": "javascript:void(0)", "icon": "",
+          "submenu": [
+            {
+              "title": "基本共用单词管理", "href": "?do=AdminMutualWordDepositor", "icon": "", "submenu": null
+            }
+          ]
+        },
+      ]
+    },
+  ]
+}
